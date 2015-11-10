@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Eventos
+        psr4_prefix: Eventos
+        src_path: app
